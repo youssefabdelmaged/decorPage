@@ -1,8 +1,37 @@
-# React + Vite
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/VNtR30Y0/Screenshot-2024-09-18-153458.png"  />
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+###
 
-Currently, two official plugins are available:
+<h1 align="left">Vivo Landing Page</h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+###
+
+<h2 align="left">Design Implementation</h2>
+
+###
+
+<h3 align="left">Modern and Clean UI:</h3>
+
+###
+
+<p align="left">The design showcases a clean and modern user interface, focusing on simplicity and effective use of whitespace to highlight key elements.</p>
+
+###
+
+<h3 align="left">Typography and Color Scheme:</h3>
+
+###
+
+<p align="left">Selected typography and color schemes are consistent with the brand's identity, enhancing visual appeal and readability.</p>
+
+###
+
+<h3 align="left">Component Structure:</h3>
+
+###
+
+<p align="left">The design is modular, breaking down sections into reusable components for better maintainability and scalability.</p>
+
+###
