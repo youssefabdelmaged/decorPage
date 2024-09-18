@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Nike Landing Page</h1>
+<h1 align="left">VIVO Decor Landing Page</h1>
 
 ###
 
